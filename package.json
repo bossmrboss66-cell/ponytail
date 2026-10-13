@@ -8,13 +8,13 @@
     "name": "Dietrich Gebert",
     "url": "https://github.com/DietrichGebert"
   },
-  "homepage": "https://github.com/DietrichGebert/ponytail",
+  "homepage": "https://github.com/bossmrboss66-cell/ponytail",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DietrichGebert/ponytail.git"
+    "url": "git+https://github.com/bossmrboss66-cell/ponytail.git"
   },
   "bugs": {
-    "url": "https://github.com/DietrichGebert/ponytail/issues"
+    "url": "https://github.com/bossmrboss66-cell/ponytail/issues"
   },
   "main": "./.opencode/plugins/ponytail.mjs",
   "exports": {
